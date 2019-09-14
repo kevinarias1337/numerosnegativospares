@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "numerosnegativospares", "numerosnegativospares\numerosnegativospares.csproj", "{4902D820-9D1B-488C-AEEC-C601A28B91FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4902D820-9D1B-488C-AEEC-C601A28B91FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4902D820-9D1B-488C-AEEC-C601A28B91FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4902D820-9D1B-488C-AEEC-C601A28B91FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4902D820-9D1B-488C-AEEC-C601A28B91FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF74DB56-5A4D-4A81-8D79-114ED89CE648}
+	EndGlobalSection
+EndGlobal
